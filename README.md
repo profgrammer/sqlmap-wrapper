@@ -13,7 +13,7 @@ This program is a wrapper for SQLMap CLI. It makes interacting with the CLI easi
 
 ## Setup instructions
 
-1. Your computer should have SQLMap CLI installed. Visit (http://sqlmap.org/)[SQLMap official site] to install for your operating system.
+1. Your computer should have SQLMap CLI installed. Visit http://www.sqlmap.org to install for your operating system.
 2. Install `python3` 
 3. Clone this repository and `cd` into it
 4. Open a terminal in the repository folder and run `python3 sql_wrapper.py`
